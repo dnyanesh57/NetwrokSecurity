@@ -7,5 +7,7 @@ matplotlib
 seaborn
 certifi
 scikit-learn
+dill
+pyaml
 
 #-e.
