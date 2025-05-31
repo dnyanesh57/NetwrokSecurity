@@ -9,5 +9,10 @@ certifi
 scikit-learn
 dill
 pyaml
+dagshub
+mlflow
+fastapi
+uvicorn
+python-multipart
 
 #-e.
